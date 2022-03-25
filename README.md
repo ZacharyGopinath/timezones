@@ -7,3 +7,5 @@ Get the time in various major cities, including:
 - Paris 🇫🇷
 - London 🇬🇧
 - and others!🌎
+
+# https://zacharygopinath.github.io/timezones/
